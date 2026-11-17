@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "schedules": {
+    "weekday": [[540, 660], [720, 1020], [1140, 1260]],
+    "saturday": [[540, 660], [840, 1020], [1140, 1260]],
+    "sunday": [[540, 660], [840, 1020], [1140, 1320]]
+  },
+  "variation": {
+    "fraction": 0.3,
+    "step_minutes": 30,
+    "max_shift_minutes": 90
+  },
+  "rest_label": "休息",
+  "default_trip_location": "嘉兴"
+}

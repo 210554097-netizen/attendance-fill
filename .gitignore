@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+node_modules/
+work/
+outputs/
+skill-data/
+profile.json
+periods/
+*.lock
+*.tmp
